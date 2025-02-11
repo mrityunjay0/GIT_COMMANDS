@@ -2,3 +2,5 @@ this is the file used for pushing codes to github and practicing.
 testing push only command
 hello buddy how are hou 
 fine or not...?
+today is 11th of february
+brushing up the git commands
