@@ -32,3 +32,9 @@ git branch <name>   (it creates a new branch)
 git switch <name>   (it switches to <name> branch)
 git switch -c <name>    (it creates and switches to <name> branch)
 git checkout <name>     (it switches to <name> branch)
+
+        GIT COMMANDS FOR MERGING
+
+git checkout <name>     (for switching to the branchh in which you wants to mearge the branch file)
+
+git merge <name>        (merging the <name> file to the present working branch)
