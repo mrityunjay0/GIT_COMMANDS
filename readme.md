@@ -20,3 +20,7 @@ ls
 ls -la
 git log
 git log --oneline
+git ls-tree <commit hash>
+git show <blob>
+git show <commit hash>
+git show <commit id>
