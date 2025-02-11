@@ -43,3 +43,19 @@ git merge <name>        (merging the <name> file to the present working branch)
 
 git branch -m <old name> <new name>     (renaming the branch)
 git branch -d <name>                    (deleting the branch)
+
+        DIFF AND STASH
+
+git diff    (show differench between the two commits)
+git diff --staged   (show difference between last commit and staged)
+git diff <c_hash1> <c_hash2>    (show difference in specific commits)
+
+git stash   (save changes on temp location)
+git stash save "name"   (stash naming)
+git stash list      (shows stash list)
+git stash apply     (applies the stash file)
+git stash apply @stash{n}       (applies specific stash)
+git stash pop       (applies changes and removes from the list)
+git stash drop      (drops stash)
+git stash apply @stash{n} <name>    (applies specific stash to the <name> branch)
+git stash clear     (clears the stash)
