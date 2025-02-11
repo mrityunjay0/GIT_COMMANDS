@@ -1,9 +1,13 @@
         SOME OF THE GIT COMMANDS ARE
 
 git --version
+
 git config -l
+
 git config --list
+
 git status
+
 git init
 git add .
 git add <file name>
