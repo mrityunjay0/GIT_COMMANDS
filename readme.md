@@ -38,3 +38,8 @@ git checkout <name>     (it switches to <name> branch)
 git checkout <name>     (for switching to the branchh in which you wants to mearge the branch file)
 
 git merge <name>        (merging the <name> file to the present working branch)
+
+        GIT COMMANDS FOR RENAME AND DELETE
+
+git branch -m <old name> <new name>     (renaming the branch)
+git branch -d <name>                    (deleting the branch)
