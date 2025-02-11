@@ -1,4 +1,5 @@
-some of the git commands are:-
+SOME OF THE GIT COMMANDS ARE:-
+
 git --version
 git config -l
 git config --list
