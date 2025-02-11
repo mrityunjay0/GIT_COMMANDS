@@ -22,3 +22,8 @@ git ls-tree <commit hash>
 git show <blob>
 git show <commit hash>
 git show <commit id>
+
+
+        GIT COMMANDS FOR BRANCH
+
+git branch   (it lists all branches)
