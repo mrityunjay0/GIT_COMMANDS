@@ -28,3 +28,7 @@ git show <commit id>
         GIT COMMANDS FOR BRANCH
 
 git branch   (it lists all branches)
+git branch <name>   (it creates a new branch)
+git switch <name>   (it switches to <name> branch)
+git switch -c <name>    (it creates and switches to <name> branch)
+git checkout <name>     (it switches to <name> branch)
