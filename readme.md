@@ -16,3 +16,7 @@ git push origin main
 git push -u origin main
 git push
 git remote set-url origin <url/ssh link>
+ls
+ls -la
+git log
+git log --oneline
